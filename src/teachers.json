@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "display_name": "Admin",
+    "password_hash": "a8e9d06b2ffa2066f8555fd508ac0699:59f91db3314080c067ab4792d2e2918a028d2a85afe861364c970b0533a61358"
+  },
+  "mrs.smith": {
+    "display_name": "Mrs. Smith",
+    "password_hash": "bdf6d5f2097d0d944c2be01067da85e2:4cd7dc7553f4b53aeb5b2c84251c0eb56a21de0f4c0e5a7a10ad1ae01e4841f6"
+  },
+  "mr.jones": {
+    "display_name": "Mr. Jones",
+    "password_hash": "79f1a01556e0eca5379b6ab67ab9d189:2b98f595ceb2caa7da85d32127cde76a474a28dc07cacedba21ef98365575839"
+  }
+}
